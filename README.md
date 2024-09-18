@@ -1,2 +1,1 @@
-# laporan-pta
-Laporan PTA
+Laporan Proposal Tugas Akhir Robert Antonius dari Universitas Multi Data Palembang. Dipersilahkan menggunakan laporan ini sebagai referensi dalam penyusunan tugas akhir serupa, terutama untuk mahasiswa UMDP lainnya, namun tidak untuk digunakan sebagai sumber plagiarisme. Terkait ini adalah proposal tugas akhir, memuat bab 1 sampai bab 3 daripada pelaksanaan Tugas Akhir.
